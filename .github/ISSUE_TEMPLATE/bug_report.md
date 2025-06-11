@@ -1,10 +1,11 @@
 ---
-name: 🐞 Bug Report
-about: Report a bug to help us improve
-title: "[BUG] - "
+name: 🐛 Bug Report
+about: Report a bug to help us improve the platform
+title: "[BUG] "
 labels: bug
-assignees: ''
+assignees: AnshTank
 ---
+
 
 ## 🔍 Describe the bug
 A clear and concise description of what the bug is.
