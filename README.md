@@ -98,4 +98,10 @@ Feel free to:
 
 > 💬 *“Financial literacy is not a privilege—it’s a right. Let’s make it accessible to all.”*
 
+## 🛡️ License
+
+This project is licensed under a [customized MIT License](./LICENSE) with additional conditions to prevent misuse.  
+Feel free to collaborate and contribute — but please do not use this project or its code without consent.
+
+
 Thanks for visiting! 🙌 More features coming soon 🚀
